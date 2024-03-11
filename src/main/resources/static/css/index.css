@@ -1,0 +1,6 @@
+#flexMainBody {
+    background-image: url("../bg-gradient.png");
+    background-size: cover;
+    background-color: #43747e;
+    background-blend-mode: screen;
+}
